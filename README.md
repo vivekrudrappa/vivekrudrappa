@@ -8,13 +8,13 @@
 
 ![](https://komarev.com/ghpvc/?username=vivek-rudrappa&base=18000)
 
-### Architect / Researcher / Tech-Evangelist
+### Enterprise Architect (EA) / Researcher / Tech-Evangelist
 
 ### Everything about me [https://vivekrudrappa.github.io/](https://vivekrudrappa.github.io/)
 
 ## About Me
 
-Seasoned Enterprise Architect (EA) and IT advisory, I thrive on collaborating with stakeholders to translate their business needs into actionable IT strategies. My extensive experience for two decades with Next-Generation Technologies allows me to leverage a broad knowledge base and guide organizations through successful digital transformations, AI solutions, digital automation, cloud migrations, application rationalization and modernizations.
+Seasoned EA and IT advisory, I thrive on collaborating with stakeholders to translate their business needs into actionable IT strategies. My extensive experience for two decades with Next-Generation Technologies allows me to leverage a broad knowledge base and guide organizations through successful digital transformations, AI solutions, digital automation, cloud migrations, application rationalization and modernizations.
 
 - Enable strategy and roadmap for digital transformations, AI solutions, digital automation, digital accessibility, cloud migrations, application rationalization and modernizations including technologies like, Cloud, AI, Data engineering, Robotic Process Automation, API management, etc.
 - Design and lead the implementation of an Enterprise Systems Architecture based on enterprise business requirements and IT strategies.
