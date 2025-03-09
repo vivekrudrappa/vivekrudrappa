@@ -1,18 +1,12 @@
-<h1 align="center">All About Vivek</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&random=false&width=435&lines=Hello!;It's+Vivek+Rudrappa)](https://git.io/typing-svg) 
+### Longmont, CO, USA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&random=false&width=435&lines=Hello+World!%F0%9F%8C%8E;It's+Vivek+Rudrappa+%F0%9F%9A%80)](https://git.io/typing-svg)
+&ensp; [![Linkedin: vivek-rudrappa](https://img.shields.io/badge/My-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-rudrappa/)](https://www.linkedin.com/in/vivek-rudrappa/) &ensp; [![YouTube: JELO](https://img.shields.io/badge/My-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos)](https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos) &ensp; [![Linkedin: NewsLetter](https://img.shields.io/badge/My-NewsLetter-blue?style=for-the-badge&logo=blog&logoColor=white&link=https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/)](https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/) &ensp; [![GitHub: Wiki](https://img.shields.io/badge/My-Wiki-green?style=for-the-badge&logo=GitHub&logoColor=white&link=https://vivekrudrappa.github.io/)](https://vivekrudrappa.github.io/)
 
-[![Linkedin: vivek-rudrappa](https://img.shields.io/badge/My-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-rudrappa/)](https://www.linkedin.com/in/vivek-rudrappa/) [![YouTube: JELO](https://img.shields.io/badge/My-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos)](https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos) [![Linkedin: NewsLetter](https://img.shields.io/badge/My-NewsLetter-blue?style=for-the-badge&logo=blog&logoColor=white&link=https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/)](https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/)
+<h2 align="center">Enterprise Solution Architect (EA) / Researcher / Tech-Evangelist</h2>
+</td>
 
-
-
-![](https://komarev.com/ghpvc/?username=vivek-rudrappa&base=18000)
-
-### Enterprise Architect (EA) / Researcher / Tech-Evangelist
-
-### Everything about me [https://vivekrudrappa.github.io/](https://vivekrudrappa.github.io/)
-
-## About Me
+## About Vivek Rudrappa
 
 Seasoned EA and IT advisory, I thrive on collaborating with stakeholders to translate their business needs into actionable IT strategies. My extensive experience for two decades with Next-Generation Technologies allows me to leverage a broad knowledge base and guide organizations through successful digital transformations, AI solutions, digital automation, cloud migrations, application rationalization and modernizations.
 
