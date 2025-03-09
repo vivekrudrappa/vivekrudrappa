@@ -1,76 +1,81 @@
+<h1 align="center">All About Vivek</h1>
 
-## Tim's Community Chess Tournament
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&random=false&width=435&lines=Hello+World!%F0%9F%8C%8E;It's+Vivek+Rudrappa+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
+[![Linkedin: vivek-rudrappa](https://img.shields.io/badge/My-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-rudrappa/)](https://www.linkedin.com/in/vivek-rudrappa/) [![YouTube: JELO](https://img.shields.io/badge/My-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos)](https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos) [![Linkedin: NewsLetter](https://img.shields.io/badge/My-NewsLetter-blue?style=for-the-badge&logo=blog&logoColor=white&link=https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/)](https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/)
 
-|   | A | B | C | D | E | F | G | H |
-| - | - | - | - | - | - | - | - | - |
-| 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
-| 7 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) |
-| 6 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 5 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 4 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
-| 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
-| 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
 
-#### **BLACK (solid):** It's your move... to choose _where_ to move...
 
-| FROM | TO - _just click one of the links_ :) |
-| ---- | -- |
-| **A7** | [A5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca7a5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [A6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca7a6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **B7** | [B5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb7b5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb7b6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **B8** | [A6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb8a6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb8c6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb8d7%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **C8** | [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8d7%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8e6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8f5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8g4%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H3](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8h3%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **D8** | [A5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8a5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8b6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8c7%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8d7%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **E7** | [E5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce7e5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce7e6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **E8** | [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce8d7%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **F6** | [D5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf6d5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf6d7%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf6e4%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf6g4%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf6g8%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf6h5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **G7** | [G5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg7g5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg7g6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **H7** | [H5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **H8** | [G8](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch8g8%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+![](https://komarev.com/ghpvc/?username=vivek-rudrappa&base=18000)
 
-Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
+### Architect / Researcher / Tech-Evangelist
 
-**How this works**
+### Everything about me [https://vivekrudrappa.github.io/](https://vivekrudrappa.github.io/)
 
-When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
+## About Me
 
-**Notice a problem?**
+Seasoned Enterprise Architect (EA) and IT advisory, I thrive on collaborating with stakeholders to translate their business needs into actionable IT strategies. My extensive experience for two decades with Next-Generation Technologies allows me to leverage a broad knowledge base and guide organizations through successful digital transformations, AI solutions, digital automation, cloud migrations, application rationalization and modernizations.
 
-Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the text _cc @timburgan_.
+- Enable strategy and roadmap for digital transformations, AI solutions, digital automation, digital accessibility, cloud migrations, application rationalization and modernizations including technologies like, Cloud, AI, Data engineering, Robotic Process Automation, API management, etc.
+- Design and lead the implementation of an Enterprise Systems Architecture based on enterprise business requirements and IT strategies.
+- Design and direct the governance activities associated with ensuring Enterprise Systems Architecture compliance.
+- Develop a road map of the evolution of the enterprise application portfolio from current to future state (as defined by the Enterprise Systems Architecture).
+- Coordinate solution and IT architecture implementation and modification activities.
+- Facilitate the evaluation and selection of software product standards, as well as the design of standard software configurations. Engage with application development projects to fit systems to infrastructure architecture, and identify when it is necessary to modify the solution architecture to accommodate project needs.
+- Identify the organizational impact (for example, on skills, processes, structures or culture) with Rationalization and financial impact of the Enterprise Systems Architecture.
+- Development and governance of enterprise architecture practice, including business architecture, information architecture, infrastructure architecture, application portfolio, technical architecture and creating models to drive informed business and IT decisions. Document all solution architecture design and analysis work.
+- Work closely with the enterprise program management office (EPMO) or project office to ensure alignment of plans with what is being delivered.
+- Work with stakeholders, both leadership and subject matter experts, to build a holistic view of the organization's strategy, processes, information, and information technology assets. 
+- Work with senior leadership team and stakeholders such as Business Relationship Managers, portfolio architects, Application development teams, to help address architectural and design related challenges. 
+- Collaborate and contribute in modeling EA meta model based on organization needs and capture data to handle critical decisions via Capability modeling, Business Process Modeling, Use case realization, Road maps, Strategy, application rationalization, Technical, Infrastructure & solution architecture. 
+- Identify organization goals and perform current, future state analysis to define technical strategies for digital transformation (Cloud, Mobile and etc..) 
+- Identify enterprise wide patterns & anti patterns and help create enterprise standards and keep them up to date. 
 
-**Last few moves, this game**
 
-| Move  | Who |
-| ----- | --- |
-| D1 to F3 | [@JohnyP36](https://github.com/JohnyP36) |
-| G8 to F6 | [@jomsk1e](https://github.com/jomsk1e) |
-| B1 to C3 | [@memcorrupt](https://github.com/memcorrupt) |
-| D7 to D6 | [@JohnyP36](https://github.com/JohnyP36) |
-| E4 to D5 | [@JRetza](https://github.com/JRetza) |
+## Technologies and Tools
+- Programming Languages - Python, APEX, Java, .NET, C#, HTML/CSS/SAML/XML, bootstrap framework
+- API Management - IBM API Connect, APIGEE, AWS API Gateway
+- Integration Platform/Technologies (iPaas) - IBM Integration Bus, IBM Data Power, MuleSoft ESB, IBM Enterprise Service Bus, Oracle Integration/Identity Cloud (OIC)
+- Cloud Technologies with Identity & Access Management (IAM) - Amazon AWS, Microsoft Azure, Google Cloud GCP including IaaS, PaaS, SaaS
+- Salesforce technologies (SaaS) - Salesforce Lightning platform, Salesforce Service Cloud and Salesforce marketing cloud, LWC, Aura component, OwnBackup, Salesforce Einstein cloud 
+- Database and query languages - Oracle, MS SQL, Salesforce - SOQL, SOSL, NoSQL
+- Forms and Document Management - IBM Filenet, Onbase, Share point
+- Middleware Technologies - WebLogic, WebSphere, ActiveMQ, MS Internet Information Services (IIS)
+- DevOps Technologies - Copado (DevOps for salesforce), Azure DevOps, Azure pipelines, Urban Code, Jenkins, XL Release & Deploy, Kubernetes
+- Robotic Process Automation (RPA) - UI Path
+- AI Technologies - Azure AI Bot framework, Azure AI Studio, AWS LEX, MS co-pilot, ChatGPT, AWS Bedrock, Google Vertex AI, Generative AI
+- Source Version Control - Git, Subversion, Team foundation server (TFS), Azure repo
+- Development Methodologies - Agile (Scrum), Waterfall, Kanban, TOGAF 10.0
+- CI & CD - Maven, Jenkins,  AWS Code pipeline
+- Operating System - Mac, Linux, Windows, IBM AIX
+- Collaboration tools -Sharepoint, google workspace, MS Teams, MS office, MS power platform, Confluence, Jira, Azure boards, 
+- Application Lifecycle Management (ALM) tools - IBM Rational, HP ALM
+- EA repositories  - IBM system architect, Avolution Abacus 
 
-**Top 20 Leaderboard: Most moves across all games, except me.**
 
-| Moves | Who |
-| ----- | --- |
-| 3336 | [@JRetza](https://github.com/JRetza) |
-| 2020 | [@JohnyP36](https://github.com/JohnyP36) |
-| 1641 | [@michaelprimo](https://github.com/michaelprimo) |
-| 1611 | [@simonberner](https://github.com/simonberner) |
-| 1584 | [@houhoulis](https://github.com/houhoulis) |
-| 704 | [@donno2048](https://github.com/donno2048) |
-| 641 | [@Nomes77](https://github.com/Nomes77) |
-| 595 | [@Mmark94](https://github.com/Mmark94) |
-| 555 | [@N-NeelPatel](https://github.com/N-NeelPatel) |
-| 552 | [@automainint](https://github.com/automainint) |
-| 501 | [@ApoorvTyagi](https://github.com/ApoorvTyagi) |
-| 493 | [@cosmoglint](https://github.com/cosmoglint) |
-| 461 | [@jatin-pahuja](https://github.com/jatin-pahuja) |
-| 420 | [@mishmanners](https://github.com/mishmanners) |
-| 368 | [@dpuenteramirez](https://github.com/dpuenteramirez) |
-| 340 | [@rayssagomees](https://github.com/rayssagomees) |
-| 312 | [@rajesh545862](https://github.com/rajesh545862) |
-| 309 | [@ak811](https://github.com/ak811) |
-| 196 | [@DalpatRathore](https://github.com/DalpatRathore) |
-| 195 | [@shpatrickguo](https://github.com/shpatrickguo) |
+
+## 🏆 Achievements:
+
+- Microsoft Certified: Azure Cloud AZ-900 - ID# F67846CA5FC6B4CA
+- AWS Certified: Cloud Practitioner - ID# 92e50c5558f64841990b08c40e0fdaf4
+- Salesforce Certified Administrator (SCA) and COPADO DevOps badge - ID# 3390852
+- TOGAF® Standard 10.0 - Level 1 Enterprise Architect - ID# UC-4b5b9443-2ee9-4cab-b6e3-9ec887d0072f
+- IBM Certified: Introduction to DevOps ID# DT8CQSWSD49A
+- Salesforce Platform Developer (APEX programming) - ID# UC-17b121d3-32af-4751-a70a-dcef974e5205
+- Applied Generative AI Specialization (AGI) Cohort program from Purdue University. 
+- Awards like Cultural Champion, Excellence, Star, Sky driver by Micron and others
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vivekrudrappa&theme=radical)
+
+## 🎉 Today's Tech Joke
+
+![Joke Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
+
+## 📈 Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vivekrudrappa&show_icons=true&hide_border=true&theme=gotham" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekrudrappa&hide_border=true&theme=gotham" />
+</p>
+
+📫 How to reach me **https://linkedin.com/in/vivek-rudrappa**
