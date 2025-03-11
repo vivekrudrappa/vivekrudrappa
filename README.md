@@ -3,6 +3,8 @@
 
 &ensp; [![Linkedin: vivek-rudrappa](https://img.shields.io/badge/My-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-rudrappa/)](https://www.linkedin.com/in/vivek-rudrappa/) &ensp; [![YouTube: JELO](https://img.shields.io/badge/My-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos)](https://www.youtube.com/@JustEnoughLearningOnline-jelo/videos) &ensp; [![Linkedin: NewsLetter](https://img.shields.io/badge/My-NewsLetter-blue?style=for-the-badge&logo=blog&logoColor=white&link=https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/)](https://www.linkedin.com/newsletters/the-architect-s-tech-pulse-7232174689773608961/) &ensp; [![GitHub: Wiki](https://img.shields.io/badge/My-Wiki-green?style=for-the-badge&logo=GitHub&logoColor=white&link=https://vivekrudrappa.github.io/)](https://vivekrudrappa.github.io/)
 
+&ensp; ![](https://komarev.com/ghpvc/?username=vivekrudrappa&base=33000)
+
 <h2 align="center">Enterprise Solution Architect (EA) / Researcher / Tech-Evangelist</h2>
 </td>
 
